@@ -1,0 +1,1 @@
+console.log("Iniciando meu repositório de estudos em JS")
